@@ -1,0 +1,431 @@
+@media only screen and (min-width: 576px) and (max-width:991px){ 
+    .planhead{
+        padding: 0;  
+    }
+    .navbar{
+        padding: 10px 0px;
+        justify-content: space-between;
+    }
+    .headnav{
+        flex-basis: 53%;
+    }
+    .headnav a img{
+        width: 43%;
+    }
+    .headul{
+        display: none;
+    }
+    .headsearch{
+        display: none;
+    }
+    .footlogo a img{
+        width: 25%;
+    }
+    .responsivehead{
+        display: block;
+        width: 40px;
+        margin-right: 10px;
+        background: rgb(247 106 0);
+        text-align: center;
+        font-size: 21px;
+        color: white;
+        padding: 7px 0px;
+        font-weight: bold;
+    }
+    .destinations{
+        max-width: 95%;
+    }
+    .newsletter{
+        max-width: 95%;
+    }
+    .newsletter h3{
+        font-size: 25px
+    }
+    .newsletter h5{
+        font-size: 17px;
+        font-weight: 100;
+    }
+   
+    .newsletter input{
+        width: 20%;
+        /* padding-left: 20px; */
+        margin: 10px 10px;
+    }
+    
+    .footerlo{
+        max-width: 95%;
+        flex-direction: column;
+    }
+    .footerend{
+        font-size: 14px;
+    }   
+    .about-section-memorable{
+        padding: 45px 0px;
+        line-height: 135px;
+    }     
+    .about-section-buddha{
+        justify-content: center;
+    }
+    .about-section-buddha-img{
+        flex-basis: 55%;
+    }
+    .policy{
+        max-width: 92%;
+    }
+    .package-part{
+        max-width: 92%;
+        /* padding: 70px 0px; */
+        flex-direction: column;
+    }
+    .package-side{
+        margin: 0px;
+    }
+    .package-side-head{
+        padding: 27px 0px 10px;
+    }
+    .overview{
+        max-width: 90%;
+        flex-direction: column;
+    }
+    .package-overview{
+        width: 100%;
+    }
+    .overview-part-2{
+        margin-top: 60px;
+    }
+    .manali-options-img{
+        padding: 0px 20px;
+    }
+}
+@media only screen and (min-width: 376px) and (max-width: 575px){
+    .navbar{
+        padding: 10px 0px;
+        justify-content: space-between;
+    }
+    .headnav{
+        flex-basis: 53%;
+    }
+    .headul{
+        display: none;
+    }
+    .headsearch{
+        display: none;
+    }
+    .responsivehead{
+        display: block;
+        width: 40px;
+        margin-right: 10px;
+        background: rgb(247 106 0);
+        text-align: center;
+        font-size: 21px;
+        color: white;
+        padding: 7px 0px;
+        font-weight: bold;
+    }
+    .banner-back img{
+        width: 100%;
+        height: 400px;
+    }
+    .leftshift{
+        left: 5%;
+    }
+    .rightshift{
+        right: 5%;
+    }
+    .holidayhead{
+        font-size: 20px;
+        top: 36%;
+    }
+    .exper{
+        max-width: 74%;
+    }
+    .exper h2{
+        line-height: 50px;
+    }
+    .exper h4{
+        font-size: 16px;
+        margin: 23px 0px;
+        line-height: 28px;
+    }
+    .holiday-form{
+        max-width: 76%;
+        padding: 10px 20px 30px 20px;
+        margin-top: 78px;
+    }
+    .holiday-form select{
+        width: 100%;
+        margin-top: 22px;
+    }
+    .holiday-form button{
+        width: 100%;
+    }
+    .trips{
+        flex-direction: column;
+        max-width: 96%;
+    }
+    .trips-data{
+        flex-basis: 27%;
+        padding-top: 170px;
+        margin: 1% 3%;
+
+    }
+    .trips-data h2{
+        font-size: 24px;
+    }
+    .trips-data h4{
+        font-size: 17px;
+        margin: 20px 0px 15px 0px;
+    }
+    .destinations{
+        max-width: 95%;
+    }
+    .newsletter{
+        max-width: 95%;
+    }
+    .newsletter h3{
+        font-size: 25px
+    }
+    .newsletter h5{
+        font-size: 17px;
+        font-weight: 100;
+    }
+    .newsletter form{
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .newsletter input{
+        width: 93%;
+        padding-left: 20px;
+        margin: 10px 0px;
+    }
+    .newsletter button{
+        width: 44%;
+    }
+    .footerlo{
+        max-width: 95%;
+        flex-direction: column;
+    }
+    .footerend{
+        font-size: 14px;
+    }
+
+    .about-section-memorable{
+        max-width: 98%;
+        font-size: 19px;
+        padding: 55px 0px;
+        line-height: 100px;
+    }
+    .about-section-buddha{
+        max-width: 98%;
+    }
+    .about-section-buddha-img{
+        flex-basis: 94%;
+    }
+    .policy{
+        max-width: 93%;
+    }
+    .package-part{
+        padding-top: 40px;
+        max-width: 92%;
+    }
+    .aside-part{
+        flex-basis: 100%;
+    }
+    .package-side{
+        flex-basis: 100%;
+        margin: 0px;
+        padding: 20px 0px;
+    }
+    .package-side-head h2{
+        font-size: 25px;
+    }
+    .package-side-rates{
+        flex-direction: column;
+    }
+    .overview{
+        max-width: 90%;
+        flex-direction: column;
+    }
+    .package-overview{
+        width: 100%;
+    }
+    .overview-part-2{
+        margin-top: 60px;
+    }
+    .manali-options-img{
+        padding: 0px 20px;
+    }
+    .sightseing-1{
+        width: 25%;
+        justify-content: start;
+    }
+    .travel-agency{
+        max-width: 100%;
+    }
+    .place-to-visit-main a{
+        flex-basis: 48%;
+    }
+}
+@media only screen and (min-width: 200px) and (max-width: 375px){
+    .navbar{
+        padding: 10px 0px;
+        justify-content: space-between;
+    }
+    .headnav{
+        flex-basis: 53%;
+    }
+    .headul{
+        display: none;
+    }
+    .headsearch{
+        display: none;
+    }
+    .responsivehead{
+        display: block;
+        width: 40px;
+        margin-right: 10px;
+        background: rgb(247 106 0);
+        text-align: center;
+        font-size: 21px;
+        color: white;
+        padding: 7px 0px;
+        font-weight: bold;
+    }
+    .banner-back img{
+        width: 100%;
+        height: 400px;
+    }
+    .leftshift{
+        left: 5%;
+    }
+    .rightshift{
+        right: 5%;
+    }
+    .holidayhead{
+        font-size: 20px;
+        top: 36%;
+    }
+    .exper{
+        max-width: 74%;
+    }
+    .exper h2{
+        line-height: 50px;
+    }
+    .exper h4{
+        font-size: 16px;
+        margin: 23px 0px;
+        line-height: 28px;
+    }
+    .holiday-form{
+        max-width: 76%;
+        padding: 10px 20px 30px 20px;
+    }
+    .holiday-form select{
+        width: 100%;
+        margin-top: 22px;
+    }
+    .holiday-form button{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .trips{
+        flex-direction: column;
+        max-width: 96%;
+    }
+    .trips-data{
+        flex-basis: 27%;
+        padding-top: 185px;
+        margin: 1% 3%;
+
+    }
+    .trips-data h2{
+        font-size: 24px;
+    }
+    .trips-data h4{
+        font-size: 17px;
+        margin: 20px 0px 15px 0px;
+    }
+    .destinations{
+        max-width: 95%;
+    }
+    .desti h3{
+        font-size: 17px;
+    }
+    .desti ul li{
+        font-size: 15px;
+    }
+    .newsletter{
+        max-width: 95%;
+    }
+    .newsletter h3{
+        font-size: 25px
+    }
+    .newsletter h5{
+        font-size: 17px;
+        font-weight: 100;
+        line-height: 25px;
+    }
+    .newsletter form{
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .newsletter input{
+        width: 93%;
+        padding-left: 10px;
+        margin: 10px 0px;
+    }
+    .newsletter button{
+        width: 44%;
+    }
+    .footerlo{
+        max-width: 95%;
+        flex-direction: column;
+    }
+    .footerend{
+        font-size: 14px;
+    }
+
+
+
+    .about-section-memorable{
+        max-width: 98%;
+        font-size: 19px;
+        padding: 55px 0px;
+        line-height: 110px;
+    }
+
+    .policy{
+        max-width: 91%;
+    }
+    .policy ul{
+        /* padding-left: 20px; */
+        margin: 25px 0px 25px 25px;
+        
+    }
+    .overview{
+        max-width: 90%;
+        flex-direction: column;
+    }
+    .package-overview{
+        width: 100%;
+    }
+    .overview-part-2{
+        margin-top: 60px;
+    }
+    .manali-options-img{
+        padding: 0px 20px;
+    }
+    .sightseing-1{
+        width: 25%;
+        justify-content: start;
+    }
+    .travel-agency{
+        max-width: 100%;
+    }
+    .place-to-visit-main a{
+        flex-basis: 48%;
+    }
+    .footerend{
+        font-size: 13px;
+    }
+}
